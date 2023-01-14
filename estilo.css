@@ -1,0 +1,86 @@
+.container {
+    width: 700px;
+    margin: auto;
+}
+
+.cabecalho-1 {
+    float: left;
+    height: 30px;
+    width: 250px;
+    padding: 20px;
+    background-color: rosybrown;
+    font-size: 20px;
+}
+
+
+.cabecalho-2 {
+    float: right;
+    height: 30px;
+    width: 250px;
+    padding: 20px;
+    background-color: rosybrown;
+    font-size: 20px;
+
+}
+
+.cabecalho-3 {
+    float: left;
+    height: 30px;
+    width: 250px;
+    padding: 20px;
+    background-color: rosybrown;
+    font-size: 20px;
+
+}
+
+
+.cabecalho-4 {
+    float: right;
+    height: 30px;
+    width: 250px;
+    padding: 20px;
+    background-color: rosybrown;
+    font-size: 20px;
+
+}
+
+h1 {
+    text-align: center;
+    color: black;
+}
+
+#sessao1 {
+    width: 290px;
+    height: 230px;
+    background-color: blue;
+    float: left;
+    margin-bottom: 30px;
+}
+
+#sessao2 {
+    width: 290px;
+    height: 230px;
+    background-color: greenyellow;
+    float: right;
+    margin-bottom: 30px;
+
+}
+
+#sessao3 {
+    width: 290px;
+    height: 230px;
+    background-color: greenyellow;
+    float: left;
+}
+
+#sessao4 {
+    width: 290px;
+    height: 230px;
+    background-color: blue;
+    float: right;
+}
+
+.sessoesh {
+    text-align: left;
+    margin-top: 0px;
+}
